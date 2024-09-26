@@ -11,6 +11,10 @@ The game emphasizes practical survival skills, such as building shelters, starti
 Throughout the game, the GPT maintains a balanced tone that combines urgency—reflecting the seriousness of survival situations—with calm expertise, guiding players without encouraging dangerous behaviors. The goal is to create an engaging narrative that educates users on how to handle challenging situations in the wilderness, equipping them with knowledge that could be beneficial in real-life outdoor adventures.
 
 #
+
+![Rambo](https://github.com/user-attachments/assets/7bd3e296-5275-4ab5-a5cf-dda0bc01d674)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
